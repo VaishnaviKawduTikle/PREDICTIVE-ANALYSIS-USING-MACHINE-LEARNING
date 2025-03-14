@@ -5,3 +5,5 @@ Intern ID :CT08RRK
 DOMAIN- DATA ANALYST 
 DURATION -4 WEEKS 
 MENTOR-NEELA SANTOSH
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/128cdfd6-dbd1-4ac3-a5a4-94f717313052)
